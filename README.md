@@ -48,3 +48,8 @@ After homebrew has been install run `$ brew doctor` to check for any problems or
 
 #### Start the server
 `$ python -m flask run`
+
+
+#### RESOURCES
+http://flask.pocoo.org/
+https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications
