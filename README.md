@@ -18,6 +18,9 @@ After homebrew has been install run `$ brew doctor` to check for any problems or
 #### Install PIP
 `$ sudo easy install pip`
 
+#### Install flask - system wide
+`$ sudo pip install Flask`
+
 #### CONFIGURE YOUR ENVIRONMENT
 #### Install and configure mySQl
 `$ brew install mysql`
@@ -49,7 +52,10 @@ After homebrew has been install run `$ brew doctor` to check for any problems or
 #### Start the server
 `$ python -m flask run`
 
+#### Point your browser to this url
+`http://127.0.0.1:5000`
 
 #### RESOURCES
-http://flask.pocoo.org/
-https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications
+[Flask Docs](http://flask.pocoo.org/)
+[A nice tutorial to get you started ](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
+[Jinja Docs](http://jinja.pocoo.org/docs/dev/)
