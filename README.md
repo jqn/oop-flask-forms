@@ -52,6 +52,9 @@ After homebrew has been install run `$ brew doctor` to check for any problems or
 #### Start the server
 `$ python -m flask run`
 
+#### To make the app publicly available disable debugger and run
+`$ flask run --host=0.0.0.0 \\ Externally Visible Server`
+
 #### Point your browser to this url
 `http://127.0.0.1:5000`
 
