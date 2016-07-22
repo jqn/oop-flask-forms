@@ -38,7 +38,7 @@ After homebrew has been install run `$ brew doctor` to check for any problems or
 `$ workon oop_flask_forms`
 
 #### Clone the repo
-`$ `
+`$ https://github.com/jqn/oop-flask-forms.git`
 
 #### Move into your projects root directory
 `$ cd oop_flask_forms`
